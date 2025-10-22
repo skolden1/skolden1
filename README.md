@@ -34,6 +34,7 @@
       <img src="https://img.shields.io/badge/Entity_Framework-%234085EB.svg?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" alt="Entity Framework" />
       <img src="https://img.shields.io/badge/Blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
       <img src="https://img.shields.io/badge/SQL_Databases-%23000.svg?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" alt="SQL Databases" />
+      <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     </p>
   </div>
 </div>
