@@ -4,7 +4,7 @@
   <p style="font-size: 18px; margin-bottom: 20px;">I'm a passionate web developer & software engineer.</p>
 
   <div style="margin-bottom: 20px;">
-    <a href="https://www.andreasdevelops.com/" style="text-decoration: none;">
+    <a href="https:[//www.andreasdevelops.com/](https://andreasdevelops.netlify.app/)" style="text-decoration: none;">
       <span style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; margin-top: 10px; display: inline-block;">Visit my Portfolio</span>
     </a>
   </div>
